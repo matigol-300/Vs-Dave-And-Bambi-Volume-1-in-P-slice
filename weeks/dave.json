@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"House",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Insanity",
+			"dave-annoyed",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Polygonized",
+			"dave-angey",
+			[
+				255,
+				0,
+				95
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dave",
+		"",
+		""
+	],
+	"storyName": "Dave's fun rapping battle!",
+	"weekName": "Dave",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

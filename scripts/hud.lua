@@ -45,7 +45,7 @@ function onUpdate(elapsed)
     local songPosition = getSongPosition() / 1000
     local time = getPropertyFromClass('flixel.FlxG', 'sound.music.length') / 1000
     setProperty('time_sprite_bg.y', (downscroll and 665 or 140) - getProperty('time_sprite_bg.height'))
-    if songPosition >= 1 then
+    if songPosition >= 5 then
         loadGraphic('time_sprite_bg', 'hud/timer_bg', 92, songPosition / time * 83)
     else 
         loadGraphic('time_sprite_bg', 'hud/timer_bg', 1, 1)

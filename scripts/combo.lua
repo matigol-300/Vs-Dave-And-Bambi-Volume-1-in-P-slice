@@ -45,7 +45,11 @@ function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
         else 
         actualizarCombo('BotPlay Bro')
     end
-    if combo >= 50 then 
+    if combo == 100 then 
+        playAnim('gf', 'cheer', true)
+        setProperty('gf.specialAnim', true)
+    end
+    if combo >= 100 then 
         if noteData == 0 then playAnim('boyfriend', 'singLEFT-alt', true)
         elseif noteData == 1 then playAnim('boyfriend', 'singDOWN-alt', true)
         elseif noteData == 2 then playAnim('boyfriend', 'singUP-alt', true)
