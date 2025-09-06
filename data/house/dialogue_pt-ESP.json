@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "beb",
+			"boxState": "normal",
+			"portrait": "bf_digo",
+			"speed": 0.03,
+			"sound": "bfDialogue"
+		},
+		{
+			"expression": "dave normal",
+			"text": "Espera, ¿quienes son ustedes dos?",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.05,
+			"sound": "daveDialogue"
+		},
+		{
+			"expression": "dave normal",
+			"text": "¡Oh espera! los he visto a los hace unos dias",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.04,
+			"sound": "daveDialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "beep bop",
+			"boxState": "normal",
+			"portrait": "bf_digo",
+			"speed": 0.05,
+			"sound": "bfDialogue"
+		},
+		{
+			"expression": "dave normal",
+			"text": "Oh. ¿Quieres cantar? ¡Entonces comencemos!",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.05,
+			"sound": "daveDialogue"
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [44, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [0, -7],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [14, 13],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [-21, -6],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [54, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "surprised",
+			"loop": false,
+			"name": "surprised0"
+		},
+		{
+			"offsets": [52, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "surprisedLoop",
+			"loop": true,
+			"name": "surprisedloop"
+		},
+		{
+			"offsets": [102, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "huh",
+			"loop": false,
+			"name": "polygonevent"
+		},
+		{
+			"offsets": [8, 3],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey!",
+			"loop": false,
+			"name": "hey"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dave/dave",
+	"position": [0, 170],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [28, 115, 255],
+	"camera_position": [-130, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

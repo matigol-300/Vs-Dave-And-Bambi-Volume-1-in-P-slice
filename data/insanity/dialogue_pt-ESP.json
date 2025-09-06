@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "dave normal",
+			"text": "¡Guau! Eres realmente bueno en esto...",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.04,
+			"sound": "daveDialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "skdoo bep",
+			"boxState": "normal",
+			"portrait": "bf_digo",
+			"speed": 0.05,
+			"sound": "bfDialogue"
+		},
+		{
+			"expression": "listo",
+			"text": "Hmph. Comencemos de nuevo. ¿No crees?",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.05,
+			"sound": "daveDialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "Beep",
+			"boxState": "normal",
+			"portrait": "bf_digo",
+			"speed": 0.05,
+			"sound": "bfDialogue"
+		},
+		{
+			"expression": "listo",
+			"text": "¡Entiendo!",
+			"boxState": "normal",
+			"portrait": "dave_digo",
+			"speed": 0.05,
+			"sound": "daveDialogue"
+		}
+	]
+}

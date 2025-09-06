@@ -1,0 +1,2 @@
+value 1  = transparency of darkness
+value 2  = speed of darkness transition

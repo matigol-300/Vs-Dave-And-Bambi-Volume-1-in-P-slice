@@ -1,0 +1,2 @@
+value 1 = up
+value 2 = down

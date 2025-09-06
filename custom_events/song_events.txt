@@ -1,0 +1,1 @@
+this event is used for all songs that have a specific event, set something specific to the value 1 to make something happen

@@ -1,0 +1,15 @@
+{	
+	"titlex": 300,
+	"titley": 50,
+	"startx": 100,
+	"starty": 576,
+	"gfx": 0,
+	"gfy": 0,
+	"backgroundSprite": "fondo",
+	"bpm": 150,
+	
+	"animation": "title_bg",
+	"dance_left": [0,1],
+	"dance_right": [2,3],
+	"idle": false
+}

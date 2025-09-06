@@ -1,0 +1,4 @@
+AHH, MY EYES
+
+value 1  = transparency of white
+value 2  = speed of white transition

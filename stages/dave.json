@@ -1,0 +1,157 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dave",
+		"gf": "gf"
+	},
+	"stageUI": "normal",
+	"boyfriend": [
+		1061,
+		76
+	],
+	"girlfriend": [
+		432,
+		84
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -904,
+			"y": -481,
+			"scale": [
+				1.2,
+				1.25
+			],
+			"image": "bg/sky/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1068,
+			"y": -196,
+			"scale": [
+				1.15,
+				1
+			],
+			"image": "bg/dave/hills",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "montanas",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.5,
+				0.5
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1571,
+			"y": 496,
+			"scale": [
+				1.2,
+				1.65
+			],
+			"image": "bg/dave/grass bg",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pasto_fondo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -956,
+			"y": 237,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/dave/gate",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "gate",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -968,
+			"y": 641,
+			"scale": [
+				1.1,
+				1.4
+			],
+			"image": "bg/dave/grass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pasto",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		50
+	],
+	"camera_speed": 2,
+	"directory": "",
+	"opponent": [
+		17,
+		97
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": false
+}

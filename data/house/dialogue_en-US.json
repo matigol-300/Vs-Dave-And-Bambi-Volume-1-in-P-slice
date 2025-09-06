@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "beb",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.03,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave normal",
+			"text": "Wait. who are you two?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "dave normal",
+			"text": "Oh wait! I saw you guys a couple days ogo!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.06,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "beep bop",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave normal",
+			"text": "Oh. you want to sing? Well let's go then!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		}
+	]
+}

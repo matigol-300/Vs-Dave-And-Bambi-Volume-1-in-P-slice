@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="DNB.png" width="230" height="396">
+	<SubTexture name="idle0000.png" x="0" y="0" width="230" height="198" frameX="-0" frameY="30" frameWidth="230" frameHeight="198"/>
+	<SubTexture name="switch0000.png" x="0" y="198" width="230" height="198" frameX="-0" frameY="30" frameWidth="230" frameHeight="198"/>
+	<SubTexture name="switch0001.png" x="0" y="198" width="230" height="198" frameX="-0" frameY="30" frameWidth="230" frameHeight="198"/>
+	<SubTexture name="switch0002.png" x="0" y="198" width="230" height="198" frameX="-0" frameY="30" frameWidth="230" frameHeight="198"/>
+	<SubTexture name="switch0003.png" x="0" y="198" width="230" height="198" frameX="-0" frameY="30" frameWidth="230" frameHeight="198"/>
+</TextureAtlas>

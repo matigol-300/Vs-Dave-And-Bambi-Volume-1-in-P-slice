@@ -1,0 +1,2 @@
+value 1 = left side intensity
+value 2 = right side intensity

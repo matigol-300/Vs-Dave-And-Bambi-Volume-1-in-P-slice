@@ -1,0 +1,27 @@
+{
+	"storyName": "Dave's funkin class",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tuto",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Warmup",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dave_tuto",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Tutorial"
+}
