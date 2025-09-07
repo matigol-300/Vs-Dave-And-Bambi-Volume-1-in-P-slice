@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle instance 1"
+		},
+		{
+			"offsets": [102, -64],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left instance 1"
+		},
+		{
+			"offsets": [1, 62],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down instance 1"
+		},
+		{
+			"offsets": [0, 54],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up instance 1"
+		},
+		{
+			"offsets": [133, 45],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/dave/dave_3d",
+	"position": [-210, 30],
+	"healthicon": "dave-angey",
+	"flip_x": false,
+	"healthbar_colors": [238, 149, 158],
+	"camera_position": [20, -10],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

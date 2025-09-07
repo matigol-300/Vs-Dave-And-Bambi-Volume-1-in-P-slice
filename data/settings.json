@@ -1,0 +1,30 @@
+[
+	{
+		"description": "Turn on/off the Note shape",
+		"save": "shapeLOCO",
+		"value": true,
+		"type": "bool",
+		"name": "Note shape"
+	},
+	{
+		"description": "Turn on/off the Note phone",
+		"save": "phoneLOCO",
+		"value": true,
+		"type": "bool",
+		"name": "Note phone"
+	},
+	{
+		"description": "Turn on/off the Cheating modchart",
+		"save": "CheatingLOCO",
+		"value": true,
+		"type": "bool",
+		"name": "Cheating modchart"
+	},
+	{
+		"description": "Turn on/off the Health Drain",
+		"save": "healthdrainLOCO",
+		"value": true,
+		"type": "bool",
+		"name": "Health Drain"
+	}
+]

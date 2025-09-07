@@ -2,6 +2,11 @@
 	{
 		"save": "warmup",
 		"name": "was that the tutorial?",
-		"description": "complete Warmup with 100% accuracy"				
+		"description": "complete Warmup with 100% accuracy"		
+	},
+	{
+		"save": "rtx",
+		"name": "the future is today!!!",
+		"description": "Get the RTX ending (in Week Dave)"				
 	}
 ]

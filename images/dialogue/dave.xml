@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="dave.png" width="1538" height="1483">
+	<SubTexture name="3d0000.png" x="781" y="378" width="399" height="378" frameX="-11" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="ahh0000.png" x="1180" y="378" width="358" height="378" frameX="-28" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="annoyed0000.png" x="0" y="1143" width="378" height="340" rotated="true" frameX="-37" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="confident0000.png" x="377" y="762" width="270" height="379" frameX="-72" frameY="-0" frameWidth="415" frameHeight="379"/>
+	<SubTexture name="erm0000.png" x="1260" y="0" width="275" height="378" frameX="-70" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="furious0000.png" x="437" y="0" width="412" height="373" frameX="-1" frameY="-0" frameWidth="415" frameHeight="373"/>
+	<SubTexture name="happy0000.png" x="781" y="756" width="264" height="378" frameX="-75" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="happyarms0000.png" x="378" y="1141" width="378" height="340" rotated="true" frameX="-37" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="phone0000.png" x="0" y="381" width="377" height="381" frameX="-19" frameY="-0" frameWidth="415" frameHeight="381"/>
+	<SubTexture name="phoneb0000.png" x="0" y="0" width="437" height="381" frameX="-0" frameY="-0" frameWidth="437" frameHeight="381"/>
+	<SubTexture name="phonec0000.png" x="0" y="762" width="377" height="381" frameX="-19" frameY="-0" frameWidth="415" frameHeight="381"/>
+	<SubTexture name="postMaze0000.png" x="1045" y="756" width="340" height="378" frameX="-37" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="shocked0000.png" x="377" y="381" width="404" height="381" frameX="-5" frameY="-0" frameWidth="415" frameHeight="381"/>
+	<SubTexture name="splitathon0000.png" x="849" y="0" width="411" height="377" frameX="-2" frameY="-0" frameWidth="415" frameHeight="377"/>
+	<SubTexture name="thinking0000.png" x="1134" y="1134" width="378" height="275" rotated="true" frameX="-70" frameY="-0" frameWidth="415" frameHeight="378"/>
+	<SubTexture name="thought0000.png" x="756" y="1134" width="378" height="324" rotated="true" frameX="-45" frameY="-0" frameWidth="415" frameHeight="378"/>
+</TextureAtlas>

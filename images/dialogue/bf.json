@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		30,
+		110
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "hey",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"idle_name": "hey",
+			"anim": "hey",
+			"loop_offsets": [
+				20,
+				0
+			]
+		},
+		{
+			"loop_name": "ohno",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"idle_name": "ohno",
+			"anim": "oh no",
+			"loop_offsets": [
+				20,
+				0
+			]
+		},
+		{
+			"loop_name": "heh",
+			"idle_offsets": [
+				10,
+				0
+			],
+			"idle_name": "heh",
+			"anim": "heh",
+			"loop_offsets": [
+				10,
+				0
+			]
+		}
+	],
+	"image": "bf"
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gf_3d.png" width="3492" height="2920">
+	<SubTexture name="BLeft0000.png" x="701" y="2190" width="700" height="730" rotated="true" frameX="-39" frameY="-65" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0001.png" x="701" y="2190" width="700" height="730" rotated="true" frameX="-39" frameY="-65" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0002.png" x="2100" y="1460" width="687" height="730" rotated="true" frameX="-39" frameY="-78" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0003.png" x="2100" y="1460" width="687" height="730" rotated="true" frameX="-39" frameY="-78" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0004.png" x="2779" y="2190" width="683" height="730" rotated="true" frameX="-39" frameY="-82" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0005.png" x="2779" y="2190" width="683" height="730" rotated="true" frameX="-39" frameY="-82" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0006.png" x="2102" y="0" width="695" height="730" rotated="true" frameX="-39" frameY="-70" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0007.png" x="2102" y="0" width="695" height="730" rotated="true" frameX="-39" frameY="-70" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0008.png" x="1402" y="730" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0009.png" x="1402" y="730" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0010.png" x="1402" y="1460" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0011.png" x="1402" y="1460" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0012.png" x="1402" y="1460" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="BLeft0013.png" x="1402" y="1460" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0000.png" x="703" y="1460" width="699" height="730" rotated="true" frameX="-39" frameY="-66" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0001.png" x="703" y="1460" width="699" height="730" rotated="true" frameX="-39" frameY="-66" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0002.png" x="1401" y="2190" width="689" height="730" rotated="true" frameX="-39" frameY="-76" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0003.png" x="1401" y="2190" width="689" height="730" rotated="true" frameX="-39" frameY="-76" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0004.png" x="2787" y="1460" width="685" height="730" rotated="true" frameX="-39" frameY="-80" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0005.png" x="2787" y="1460" width="685" height="730" rotated="true" frameX="-39" frameY="-80" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0006.png" x="2797" y="0" width="695" height="730" rotated="true" frameX="-39" frameY="-70" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0007.png" x="2797" y="0" width="695" height="730" rotated="true" frameX="-39" frameY="-70" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0008.png" x="1405" y="0" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0009.png" x="1405" y="0" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0010.png" x="1405" y="0" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0011.png" x="1405" y="0" width="697" height="730" rotated="true" frameX="-39" frameY="-68" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0012.png" x="704" y="730" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Bright0013.png" x="704" y="730" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0000.png" x="0" y="730" width="704" height="730" rotated="true" frameX="-39" frameY="-61" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0001.png" x="0" y="730" width="704" height="730" rotated="true" frameX="-39" frameY="-61" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0002.png" x="2795" y="730" width="694" height="730" rotated="true" frameX="-39" frameY="-71" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0003.png" x="2795" y="730" width="694" height="730" rotated="true" frameX="-39" frameY="-71" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0004.png" x="2099" y="730" width="696" height="730" rotated="true" frameX="-39" frameY="-69" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0005.png" x="2099" y="730" width="696" height="730" rotated="true" frameX="-39" frameY="-69" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0006.png" x="707" y="0" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0007.png" x="707" y="0" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0008.png" x="707" y="0" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="Cheer0009.png" x="707" y="0" width="698" height="730" rotated="true" frameX="-39" frameY="-67" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0000.png" x="2090" y="2190" width="689" height="730" rotated="true" frameX="-39" frameY="-76" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0001.png" x="2090" y="2190" width="689" height="730" rotated="true" frameX="-39" frameY="-76" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0002.png" x="0" y="0" width="707" height="730" rotated="true" frameX="-39" frameY="-58" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0003.png" x="0" y="0" width="707" height="730" rotated="true" frameX="-39" frameY="-58" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0004.png" x="0" y="1460" width="703" height="730" rotated="true" frameX="-39" frameY="-62" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0005.png" x="0" y="1460" width="703" height="730" rotated="true" frameX="-39" frameY="-62" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0006.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0007.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0008.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0009.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0010.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0011.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0012.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0013.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0014.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0015.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0016.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+	<SubTexture name="ComboBreak0017.png" x="0" y="2190" width="701" height="730" rotated="true" frameX="-39" frameY="-64" frameWidth="798" frameHeight="800"/>
+</TextureAtlas>

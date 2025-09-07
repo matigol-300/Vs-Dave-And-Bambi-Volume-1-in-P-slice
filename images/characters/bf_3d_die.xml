@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bf_3d_die.png" width="2982" height="3195">
+	<SubTexture name="DeathConfirm0000.png" x="1645" y="367" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0001.png" x="1645" y="367" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0002.png" x="1219" y="730" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0003.png" x="0" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0004.png" x="0" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0005.png" x="426" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0006.png" x="1642" y="1459" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0007.png" x="2067" y="1459" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0008.png" x="2492" y="1459" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0009.png" x="367" y="734" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0010.png" x="792" y="734" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0011.png" x="2070" y="367" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0012.png" x="852" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0013.png" x="1278" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0014.png" x="1704" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0015.png" x="1642" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0016.png" x="1217" y="1822" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0017.png" x="367" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0018.png" x="2495" y="367" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0019.png" x="1644" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0020.png" x="1217" y="1094" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0021.png" x="2130" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0022.png" x="2556" y="0" width="426" height="367" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0023.png" x="0" y="367" width="367" height="426" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0024.png" x="792" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0025.png" x="792" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0026.png" x="792" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0027.png" x="367" y="1098" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0028.png" x="367" y="1098" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0029.png" x="367" y="1098" width="425" height="364" rotated="true" frameX="-46" frameY="-53" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0030.png" x="0" y="793" width="367" height="426" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0031.png" x="0" y="793" width="367" height="426" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0032.png" x="0" y="793" width="367" height="426" frameX="-46" frameY="-50" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0033.png" x="792" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathConfirm0034.png" x="792" y="1826" width="425" height="360" rotated="true" frameX="-46" frameY="-51" frameWidth="485" frameHeight="485"/>
+	<SubTexture name="DeathLoop0000.png" x="792" y="1098" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0001.png" x="792" y="1098" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0002.png" x="2069" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0003.png" x="0" y="1219" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0004.png" x="0" y="1645" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0005.png" x="0" y="1645" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0006.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0007.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0008.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0009.png" x="2494" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0010.png" x="2494" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0011.png" x="1642" y="1095" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0012.png" x="0" y="2071" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0013.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0014.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0015.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0016.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0017.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0018.png" x="2494" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0019.png" x="2494" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0020.png" x="2494" y="731" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0021.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0022.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0023.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="DeathLoop0024.png" x="2067" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0000.png" x="1087" y="2186" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0001.png" x="1087" y="2186" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0002.png" x="1087" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0003.png" x="1767" y="2601" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0004.png" x="2113" y="2601" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0005.png" x="2113" y="2601" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0006.png" x="2475" y="2525" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0007.png" x="2475" y="2525" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0008.png" x="2459" y="2860" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0009.png" x="1427" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0010.png" x="1427" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0011.png" x="1427" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0012.png" x="2129" y="2179" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0013.png" x="2129" y="2179" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0014.png" x="2129" y="2179" width="346" height="422" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0015.png" x="2459" y="2860" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0016.png" x="2459" y="2860" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0017.png" x="2459" y="2860" width="421" height="335" rotated="true" frameX="-71" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0018.png" x="1427" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0019.png" x="1427" y="2611" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0020.png" x="1427" y="2182" width="340" height="425" frameX="-70" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0021.png" x="2475" y="2179" width="422" height="346" rotated="true" frameX="-67" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0022.png" x="1767" y="2179" width="362" height="422" frameX="-51" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0023.png" x="1767" y="2179" width="362" height="422" frameX="-51" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0024.png" x="1219" y="367" width="426" height="363" rotated="true" frameX="-43" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0025.png" x="1219" y="367" width="426" height="363" rotated="true" frameX="-43" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0026.png" x="2492" y="1819" width="425" height="360" rotated="true" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0027.png" x="1217" y="1458" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0028.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0029.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0030.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0031.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0032.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0033.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0034.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0035.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0036.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0037.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0038.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0039.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0040.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0041.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0042.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0043.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0044.png" x="367" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0045.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0046.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0047.png" x="367" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0048.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0049.png" x="367" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-48" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0050.png" x="793" y="367" width="426" height="367" rotated="true" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0051.png" x="367" y="2611" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0052.png" x="727" y="2186" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0053.png" x="727" y="2611" width="360" height="425" frameX="-46" frameY="-50" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0054.png" x="792" y="1462" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0055.png" x="2067" y="1095" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0056.png" x="2492" y="1095" width="425" height="364" rotated="true" frameX="-46" frameY="-52" frameWidth="485" frameHeight="484"/>
+	<SubTexture name="death0057.png" x="0" y="2497" width="367" height="426" frameX="-46" frameY="-49" frameWidth="485" frameHeight="484"/>
+</TextureAtlas>
