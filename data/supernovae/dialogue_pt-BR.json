@@ -1,0 +1,77 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Por que você tá me ligando?"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Beep"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Nao to entendendo"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Fala brasil alienigena filho da-"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Boop beep skdoop"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Eu vou te dar block por que voce ta me ligando"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Bora ter batalha de rap"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Voce perde leva block"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "TB ela perde voce perde"
+		}
+	]
+}

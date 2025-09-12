@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Supernovae",
+			"bambi-joke",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Glitch",
+			"bambi-joke",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Master",
+			"bambi-joke-mad",
+			[
+				0,
+				113,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "joke",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"bambi_joke",
+		"",
+		""
+	],
+	"storyName": "Bambi's master week!",
+	"weekName": "Bambi joke",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

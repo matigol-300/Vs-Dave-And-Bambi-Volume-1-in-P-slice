@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [275, 33],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gfTantrumStart",
+			"indices": []
+		},
+		{
+			"offsets": [302, -349],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "gfTantrumConfirm"
+		},
+		{
+			"loop": true,
+			"offsets": [276, -349],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gfTantrumLoop",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gf_player_game_over",
+	"position": [20, 230],
+	"healthicon": "gf-player",
+	"flip_x": true,
+	"healthbar_colors": [234, 71, 146],
+	"camera_position": [150, 320],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

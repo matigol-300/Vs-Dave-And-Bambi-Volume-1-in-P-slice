@@ -1,0 +1,53 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_dave",
+			"speed": 0.16,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "..."
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "¿Bap bep?"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "thought",
+			"text": "¡Ah! Lo siento, me perdí en mis pensamientos... "
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Como sea ¿Listo para la segunda ronda? "
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "¡Beep Baaaaaap!"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "splitathon",
+			"text": "¡Excelente! "
+		}
+	]
+}

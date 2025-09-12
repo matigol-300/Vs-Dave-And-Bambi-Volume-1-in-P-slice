@@ -1,0 +1,133 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "DUDE WHY YOU DO THAT"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "I GONNA BLock you..."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "......"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Why are you doing this to me."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Dude."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Stop."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "I don't understand."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "You are causing me severe psychological damage"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "This was supposed to be impossible!"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "And you just..."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "Played through those songs like it was nothing!"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Beep"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "This isn't funny anymore."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "My head is literally going to explode."
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Boop beep skdoop"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Just one more song... I could do one more song..."
+		}
+	]
+}

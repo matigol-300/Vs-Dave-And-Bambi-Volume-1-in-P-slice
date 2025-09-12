@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "¿Porque me llamas? ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Yo no entender  ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Habla Brazil ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "Boop beep skdoop",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Voy a bloquearte por llamarme ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Tengamos una batalla de rap ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Si tu pierdes te bloqueo ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "TB ella te pierde, vas a perder",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		}
+	],
+	"style": ""
+}

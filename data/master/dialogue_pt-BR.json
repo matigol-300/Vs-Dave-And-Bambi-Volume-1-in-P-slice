@@ -1,0 +1,133 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "CARA POR QUE VOCE FAZ ISSO\r"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "EU VOU TE dar BLock..."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "......"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Por que voce faz isso comigo."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Cara."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Para."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "No lo entiendo."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Eu não entendo."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "Isso aqui era pra ser impossível!"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "E você só..."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "Passou daquelas músicas como se fosse nada!"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Beep"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Isso não tem mais graça."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Minha cabeça vai literalmente explodir."
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Boop beep skdoop"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Só mais uma música... Eu conseguiria mais uma música..."
+		}
+	]
+}

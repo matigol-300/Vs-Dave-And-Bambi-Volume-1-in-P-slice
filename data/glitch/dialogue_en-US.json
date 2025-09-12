@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Stop you try to are trolling me",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "skdoo bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh my god You try to filming",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "You change the keyboard",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "boop bop skippidy",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "You liar",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "That it",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "You trolling me",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "You win this game I smash my phone",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		}
+	],
+	"style": ""
+}

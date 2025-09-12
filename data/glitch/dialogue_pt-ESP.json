@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Basta, deja de trollearme ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "skdoo bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh mi Dios Estás tratar de grabarme ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Tu cambia tu teclado",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "boop bop skippidy",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Mentiroso",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Sufisciente ",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Me estas trolleando",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Tu ganas, Rompo mi Telefono",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		}
+	],
+	"style": ""
+}

@@ -7,6 +7,13 @@
 	{
 		"save": "rtx",
 		"name": "the future is today!!!",
-		"description": "Get the RTX ending (in Week Dave)"				
+		"description": "Get the RTX ending (in Week Dave)"	
+	},
+	{		
+		"save": "dave",
+		"name": "Dave was totally outmatched.",
+		"description": "Beat all the songs of the Week Dave without misses",
+		"maxScore": 3,
+		"maxDecimals": 0			
 	}
 ]

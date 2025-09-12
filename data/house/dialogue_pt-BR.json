@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Bop Boop Bep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Hm? Ah, ei! Eu te conheço! Você não é o cara que derrotou o Dearest na TV uns meses atrás?",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.04,
+			"portrait": "dave"
+		},
+		{
+			"expression": "hey",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Bapity boop bep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Ah, e você tá me desafiando pra uma batalha de canto?",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "confident",
+			"text": "Bem... Vou te avisando, Já ganhei várias na minha época!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "normal",
+			"text": "Beeeep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happyarms",
+			"text": "Vamos começar com uma simples!!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		}
+	],
+	"style": ""
+}

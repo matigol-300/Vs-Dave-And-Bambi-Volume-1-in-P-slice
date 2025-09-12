@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Para voce tenta ta me tentando trollar",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "skdoo bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Ai meu deus voce tenta ta filmando",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Voce muda o teclado",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "boop bop skippidy",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Seu mentiroso",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "bep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Ja chegar",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Voce ta me trollando",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Voce ganha esse jogo, Eu destruo meu celular",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		}
+	],
+	"style": ""
+}

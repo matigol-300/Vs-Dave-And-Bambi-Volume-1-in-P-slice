@@ -1,0 +1,53 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_dave",
+			"speed": 0.02,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "3d",
+			"text": "|||||||||||||||||||||||||||||||||||||||||||||"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.02,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "3d",
+			"text": "|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.035,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "3d",
+			"text": "|||||||||||||||||||||||||||||||||||||||||"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "3d",
+			"text": "|||||||||||||||||||||||||||||||||||||||||||"
+		},
+		{
+			"sound": "d_dave",
+			"speed": 0.005,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "3d",
+			"text": "|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "oh no",
+			"text": "¿B-beep..?"
+		}
+	]
+}

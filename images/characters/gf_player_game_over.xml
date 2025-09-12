@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gf_player_game_over.png" width="5492" height="4373">
+	<SubTexture name="gfTantrumConfirm0000.png" x="616" y="1832" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0001.png" x="1232" y="1837" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0002.png" x="1848" y="1841" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0003.png" x="2969" y="1850" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0004.png" x="3585" y="1970" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0005.png" x="4201" y="2003" width="618" height="395" frameX="-24" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0006.png" x="4819" y="2122" width="620" height="395" frameX="-22" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0007.png" x="2464" y="2245" width="620" height="395" frameX="-22" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0008.png" x="3084" y="2365" width="622" height="395" frameX="-20" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0009.png" x="3706" y="2398" width="621" height="395" frameX="-21" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0010.png" x="4327" y="2517" width="621" height="395" frameX="-21" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0011.png" x="2464" y="2640" width="619" height="395" frameX="-23" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0012.png" x="0" y="2223" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0013.png" x="616" y="2227" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0014.png" x="1232" y="2232" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0015.png" x="1848" y="2236" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0016.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0017.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0018.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0019.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0020.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0021.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0022.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0023.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0024.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0025.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0026.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0027.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0028.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0029.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0030.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0031.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0032.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0033.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0034.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0035.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0036.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0037.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0038.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0039.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0040.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0041.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0042.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0043.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0044.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0045.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0046.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0047.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0048.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0049.png" x="1848" y="2631" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0050.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0051.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0052.png" x="0" y="2618" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0053.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0054.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0055.png" x="616" y="2622" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0056.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumConfirm0057.png" x="1232" y="2627" width="616" height="395" frameX="-26" frameY="-8" frameWidth="642" frameHeight="410"/>
+	<SubTexture name="gfTantrumLoop0000.png" x="4948" y="2517" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0001.png" x="4948" y="2517" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0002.png" x="4948" y="2517" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0003.png" x="3083" y="2760" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0004.png" x="3083" y="2760" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0005.png" x="3083" y="2760" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0006.png" x="3699" y="2793" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0007.png" x="3699" y="2793" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0008.png" x="3699" y="2793" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0009.png" x="4315" y="2912" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0010.png" x="0" y="3013" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0011.png" x="0" y="3013" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0012.png" x="616" y="3017" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0013.png" x="616" y="3017" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0014.png" x="1232" y="3022" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0015.png" x="1848" y="3026" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0016.png" x="1848" y="3026" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0017.png" x="2464" y="3035" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0018.png" x="3080" y="3155" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0019.png" x="3696" y="3188" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0020.png" x="4312" y="3307" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0021.png" x="4931" y="3133" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0022.png" x="0" y="3408" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0023.png" x="616" y="3412" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0024.png" x="1232" y="3417" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0025.png" x="1848" y="3421" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0026.png" x="2464" y="3430" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0027.png" x="3080" y="3550" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0028.png" x="3696" y="3583" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0029.png" x="4312" y="3702" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0030.png" x="0" y="3803" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0031.png" x="0" y="3803" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0032.png" x="616" y="3807" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0033.png" x="1232" y="3812" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0034.png" x="1848" y="3816" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0035.png" x="2464" y="3825" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0036.png" x="3080" y="3945" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0037.png" x="3080" y="3945" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0038.png" x="3080" y="3945" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0039.png" x="4928" y="3749" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0040.png" x="4928" y="3749" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0041.png" x="4928" y="3749" width="395" height="616" rotated="true" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0042.png" x="3696" y="3978" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0043.png" x="3696" y="3978" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0044.png" x="3696" y="3978" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0045.png" x="2464" y="3825" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0046.png" x="2464" y="3825" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumLoop0047.png" x="2464" y="3825" width="616" height="395" frameX="-0" frameY="-8" frameWidth="616" frameHeight="403"/>
+	<SubTexture name="gfTantrumStart0000.png" x="5007" y="0" width="368" height="498" frameX="-307" frameY="-57" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0001.png" x="4463" y="708" width="382" height="498" frameX="-293" frameY="-57" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0002.png" x="1142" y="1062" width="505" height="378" rotated="true" frameX="-293" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0003.png" x="3998" y="1072" width="401" height="505" frameX="-288" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0004.png" x="4997" y="1223" width="401" height="505" frameX="-288" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0005.png" x="2464" y="1841" width="505" height="401" rotated="true" frameX="-288" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0006.png" x="4502" y="0" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0007.png" x="4502" y="0" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0008.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0009.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0010.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0011.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0012.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0013.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0014.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0015.png" x="0" y="345" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0016.png" x="505" y="348" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0017.png" x="505" y="348" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0018.png" x="505" y="348" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0019.png" x="1010" y="351" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0020.png" x="1010" y="351" width="505" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0021.png" x="1515" y="351" width="533" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0022.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0023.png" x="2611" y="351" width="560" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0024.png" x="2611" y="351" width="560" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0025.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0026.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0027.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0028.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0029.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0030.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0031.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0032.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0033.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0034.png" x="2048" y="351" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0035.png" x="3171" y="352" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0036.png" x="3171" y="352" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0037.png" x="3171" y="352" width="563" height="353" rotated="true" frameX="-313" frameY="-49" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0038.png" x="1052" y="0" width="564" height="351" rotated="true" frameX="-311" frameY="-48" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0039.png" x="1052" y="0" width="564" height="351" rotated="true" frameX="-311" frameY="-48" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0040.png" x="1052" y="0" width="564" height="351" rotated="true" frameX="-311" frameY="-48" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0041.png" x="3354" y="0" width="576" height="352" rotated="true" frameX="-289" frameY="-36" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0042.png" x="3354" y="0" width="576" height="352" rotated="true" frameX="-289" frameY="-36" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0043.png" x="3930" y="0" width="572" height="352" rotated="true" frameX="-285" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0044.png" x="3930" y="0" width="572" height="352" rotated="true" frameX="-285" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0045.png" x="3930" y="0" width="572" height="352" rotated="true" frameX="-285" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0046.png" x="1616" y="0" width="572" height="351" rotated="true" frameX="-287" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0047.png" x="1616" y="0" width="572" height="351" rotated="true" frameX="-287" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0048.png" x="1616" y="0" width="572" height="351" rotated="true" frameX="-287" frameY="-40" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0049.png" x="2188" y="0" width="583" height="351" rotated="true" frameX="-301" frameY="-29" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0050.png" x="2771" y="0" width="583" height="351" rotated="true" frameX="-301" frameY="-29" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0051.png" x="2206" y="704" width="579" height="360" rotated="true" frameX="-300" frameY="-33" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0052.png" x="2785" y="705" width="579" height="360" rotated="true" frameX="-300" frameY="-33" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0053.png" x="0" y="701" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0054.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0055.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0056.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0057.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0058.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0059.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0060.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0061.png" x="580" y="704" width="580" height="356" rotated="true" frameX="-301" frameY="-32" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0062.png" x="4302" y="353" width="579" height="355" rotated="true" frameX="-302" frameY="-33" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0063.png" x="4302" y="353" width="579" height="355" rotated="true" frameX="-302" frameY="-33" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0064.png" x="4302" y="353" width="579" height="355" rotated="true" frameX="-302" frameY="-33" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0065.png" x="4881" y="498" width="578" height="355" rotated="true" frameX="-302" frameY="-34" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0066.png" x="4881" y="498" width="578" height="355" rotated="true" frameX="-302" frameY="-34" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0067.png" x="4881" y="498" width="578" height="355" rotated="true" frameX="-302" frameY="-34" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0068.png" x="3734" y="352" width="568" height="353" rotated="true" frameX="-300" frameY="-44" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0069.png" x="3734" y="352" width="568" height="353" rotated="true" frameX="-300" frameY="-44" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0070.png" x="1160" y="704" width="506" height="358" rotated="true" frameX="-258" frameY="-106" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0071.png" x="1160" y="704" width="506" height="358" rotated="true" frameX="-258" frameY="-106" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0072.png" x="0" y="0" width="522" height="345" frameX="-94" frameY="-399" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0073.png" x="522" y="0" width="530" height="348" frameX="-86" frameY="-399" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0074.png" x="1666" y="704" width="540" height="358" frameX="-76" frameY="-393" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0075.png" x="3364" y="705" width="546" height="361" frameX="-70" frameY="-393" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0076.png" x="3910" y="708" width="553" height="364" frameX="-63" frameY="-393" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0077.png" x="4845" y="853" width="561" height="370" frameX="-55" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0078.png" x="0" y="1057" width="568" height="373" frameX="-48" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0079.png" x="568" y="1060" width="574" height="376" frameX="-42" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0080.png" x="1647" y="1064" width="580" height="378" frameX="-36" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0081.png" x="2227" y="1065" width="586" height="381" frameX="-30" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0082.png" x="2813" y="1066" width="590" height="383" frameX="-26" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0083.png" x="3403" y="1072" width="595" height="385" frameX="-21" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0084.png" x="4399" y="1223" width="598" height="386" frameX="-18" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0085.png" x="0" y="1436" width="602" height="388" frameX="-14" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0086.png" x="602" y="1440" width="605" height="389" frameX="-11" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0087.png" x="1207" y="1442" width="607" height="390" frameX="-9" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0088.png" x="1814" y="1446" width="609" height="391" frameX="-7" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0089.png" x="2423" y="1449" width="611" height="392" frameX="-5" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0090.png" x="3034" y="1457" width="613" height="393" frameX="-3" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0091.png" x="3647" y="1577" width="614" height="393" frameX="-2" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0092.png" x="4261" y="1609" width="615" height="394" frameX="-1" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0093.png" x="4876" y="1728" width="616" height="394" frameX="-0" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0094.png" x="0" y="1829" width="616" height="394" frameX="-0" frameY="-391" frameWidth="689" frameHeight="785"/>
+	<SubTexture name="gfTantrumStart0095.png" x="0" y="1829" width="616" height="394" frameX="-0" frameY="-391" frameWidth="689" frameHeight="785"/>
+</TextureAtlas>

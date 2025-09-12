@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Bop Boop Bep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Hm? Oh, hey! I know you! Aren't you the guy that defeated Dearest on TV a few months back?",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.04,
+			"portrait": "dave"
+		},
+		{
+			"expression": "hey",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Bapity boop bep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, and you're challenging me to a singing battle?",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "confident",
+			"text": "Well... I warn you, I've won quite a few back in the day!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "normal",
+			"text": "Beeeep!",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happyarms",
+			"text": "Let's start with a simple one!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		}
+	],
+	"style": ""
+}

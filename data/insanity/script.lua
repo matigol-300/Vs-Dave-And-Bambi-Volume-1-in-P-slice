@@ -1,3 +1,6 @@
+playDialogue = true
+playDialogueEnd = true
+
 function onCreate()
     setProperty('introSoundsSuffix', '-dave')
     addLuaScript('scripts/extras/makeShader')
@@ -24,5 +27,27 @@ function onCreate()
     setShaderFloat('bg_3d_red', 'uWaveAmplitude', 0.1)
     setShaderFloat('bg_3d_red', 'uFrequency', 3)
     setShaderFloat('bg_3d_red', 'uSpeed', 1.5)
-    close(true)
+end
+
+function onStartCountdown()
+	if isStoryMode and not seenCutscene then
+		if playDialogue then
+			startDialogue('dialogue_'..getPropertyFromClass('backend.ClientPrefs', 'data.language'), 'DaveDialogue')
+			playDialogue = false
+		    return Function_Stop
+        end
+    end
+    return Function_Continue
+end
+
+function onEndSong()
+	if isStoryMode then
+		if playDialogueEnd then
+            setProperty('camHUD.alpha', 1)
+			startDialogue('dialogue_end_'..getPropertyFromClass('backend.ClientPrefs', 'data.language'), 'scaryAmbience')
+			playDialogueEnd = false
+		    return Function_Stop
+        end
+    end
+    return Function_Continue
 end

@@ -2,5 +2,4 @@ tuto
 dave
 bambi
 finale
-festival
-cheating
+bambi_joke

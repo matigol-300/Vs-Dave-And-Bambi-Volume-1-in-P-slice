@@ -1,0 +1,133 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "VIEJO PORQUE HACES ESO"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "VOY A BLOCKearte... "
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "......"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Porque me estás haciendo esto."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Mano."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Para."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "No lo entiendo."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Estás causando un severo daño mental"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "Se supondría que debería ser imposible!"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Y tú solo..."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "¡Pasaste todas las canciones como si nada!"
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Beep"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Esto ya no es divertido."
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Mi cabeza va explotar."
+		},
+		{
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "Boop beep skdoop"
+		},
+		{
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Solo una cancion mas…, Jamas ganaras esto..."
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"position": [
+		230,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.9,
+	"image": "bambi_joke",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "normal",
+			"idle_name": "normal"
+		},
+		{
+			"loop_name": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mad",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

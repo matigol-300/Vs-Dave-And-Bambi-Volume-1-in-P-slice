@@ -9,8 +9,8 @@ end
 makeLuaSprite('flash', nil, 0, 0);
 makeGraphic('flash', 1280, 720, color)
 setScrollFactor('flash', 0, 0)
-setProperty('flash.scale.x',2)
-setProperty('flash.scale.y',2)
+setProperty('flash.scale.x',10)
+setProperty('flash.scale.y',10)
 doTweenAlpha('flash_alpha', 'flash', 0, v1, 'linear')
 addLuaSprite('flash', true)		
 end

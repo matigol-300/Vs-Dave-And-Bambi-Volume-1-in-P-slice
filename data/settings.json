@@ -1,30 +1,62 @@
 [
 	{
 		"description": "Turn on/off the Note shape",
-		"save": "shapeLOCO",
 		"value": true,
+		"save": "shapeLOCO",
 		"type": "bool",
 		"name": "Note shape"
 	},
 	{
 		"description": "Turn on/off the Note phone",
-		"save": "phoneLOCO",
 		"value": true,
+		"save": "phoneLOCO",
 		"type": "bool",
 		"name": "Note phone"
 	},
 	{
 		"description": "Turn on/off the Cheating modchart",
-		"save": "CheatingLOCO",
 		"value": true,
+		"save": "CheatingLOCO",
 		"type": "bool",
 		"name": "Cheating modchart"
 	},
 	{
 		"description": "Turn on/off the Health Drain",
-		"save": "healthdrainLOCO",
 		"value": true,
+		"save": "healthdrainLOCO",
 		"type": "bool",
 		"name": "Health Drain"
+	},
+	{
+		"description": "Select the BF skin (does not work for all songs and is only for freeplay)",
+		"value": "Girlfriend",
+		"save": "charBF",
+		"options": [
+			"Boyfriend",
+			"Boyfriend 3D",
+			"Girlfriend",
+			"Dave",
+			"Bambi",
+			"Tristan",
+			"Playrobot"
+		],
+		"type": "string",
+		"name": "choose BF"
+	},
+	{
+		"description": "Select the GF skin (does not work for all songs and is only for freeplay)",
+		"value": "Boyfriend",
+		"save": "charGF",
+		"options": [
+			"Girlfriend",
+			"Girlfriend 3D",
+			"Boyfriend",
+			"Boombox",
+			"Haystack",
+			"Playrobot",
+			"Tristan"
+		],
+		"type": "string",
+		"name": "choose GF"
 	}
 ]

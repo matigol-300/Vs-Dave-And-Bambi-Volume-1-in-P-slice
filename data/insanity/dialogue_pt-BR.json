@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "thinking",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.16,
+			"portrait": "dave"
+		},
+		{
+			"expression": "heh",
+			"text": "Bap bep?",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "thought",
+			"text": "Ah! Desculpa, só estava pensando...",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "annoyed",
+			"text": "De qualquer forma, pronto pra próxima música?",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "hey",
+			"text": "Beep Baaaaaap!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "splitathon",
+			"text": "Beleza!",
+			"boxState": "normal",
+			"sound": "d_dave",
+			"speed": 0.05,
+			"portrait": "dave"
+		}
+	],
+	"style": ""
+}

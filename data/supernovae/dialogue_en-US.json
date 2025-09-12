@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Why you calling me?",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I don't understand",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Speak brazil",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "heh",
+			"text": "Boop beep skdoop",
+			"boxState": "normal",
+			"sound": "d_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I gonna block you because you calling me",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "Let's have rap battle",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "You lose, block",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		},
+		{
+			"expression": "normal",
+			"text": "TB she lose you gonna lose",
+			"boxState": "normal",
+			"sound": "d_bambi",
+			"speed": 0.05,
+			"portrait": "bambi_joke"
+		}
+	],
+	"style": ""
+}

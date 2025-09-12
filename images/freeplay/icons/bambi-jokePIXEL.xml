@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambi-jokePIXEL.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="102" y="0" width="51" height="44" frameX="2" frameY="-1" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0000" x="0" y="51" width="54" height="43" frameX="2" frameY="-9" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0001" x="0" y="0" width="51" height="51" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0002" x="51" y="0" width="51" height="51" frameX="2" frameY="-1" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm-hold0000" x="51" y="0" width="51" height="51" frameX="2" frameY="-1" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

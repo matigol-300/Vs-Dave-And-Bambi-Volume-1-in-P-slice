@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bambi_joke.png" width="475" height="222">
+	<SubTexture name="mad0000.png" x="0" y="0" width="248" height="221" rotated="true" frameX="-4" frameY="-16" frameWidth="231" frameHeight="264"/>
+	<SubTexture name="normal0000.png" x="248" y="0" width="227" height="222" rotated="true" frameX="-3" frameY="-37" frameWidth="231" frameHeight="264"/>
+</TextureAtlas>
